@@ -1,6 +1,6 @@
 #include "cHabilidades.h"
 
-//HOLAAAAAaaaa
+//holaaa
 
 cHabilidades::cHabilidades(const cHabilidades& otrasHabilidades) {
     this->ataque = otrasHabilidades.ataque;
